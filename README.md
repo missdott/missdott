@@ -1,4 +1,4 @@
-# 👋 Hi
+# 👋 Hi there
 
 I'm Kasandra, a Computer Programming student and aspiring software developer.
 
@@ -8,13 +8,13 @@ I also use tools like Supabase, Git, GitHub, and VS Code to build, test, and imp
 
 This is my space where I'll be uploading projects, experiments, and things I'm currently learning. Everything here is built to improve my skills, explore new technologies, and create useful software from scratch.
 
-## 🛠️ Tools & Tech
+# 🛠️ Tools & Tech
 **Languages:** JavaScript, TypeScript, Java, Python, SQL  
 **Frontend:** HTML, CSS, React, Next.js  
 **Backend:** Node.js, Express.js  
 **Database & Tools:** Supabase, Git, GitHub, VS Code
 
-## 📌 A Bit About Me
+# 📌 A Bit About Me
 - 🐈 I like cats ✨
 - ☕ I like coffee
 - 🎮 I like to play games
